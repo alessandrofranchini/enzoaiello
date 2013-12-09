@@ -1,0 +1,293 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body{ background-image:url("immagini/download_background.png");
+background-repeat:repeat-x;
+	min-width:400px;
+	
+	}
+	
+#important{
+	width:800px;
+	position:relative;
+	alignment-adjust:central;
+	border-left:0;
+	left:20%;
+	margin-left: -210px;
+	}
+#principale{
+	
+	
+	alignment-adjust:central;
+	height:620px;
+	width:1200px;
+	
+	}
+
+
+
+ 
+#prova{
+	font-family:Conv_GarageGothicRegular;
+	font-size:15;
+	color:#000;}	
+	
+
+#logo{
+	background-image: url("immagini/logo.png");
+	width: 156px;
+	height: 32px;
+	position: absolute;
+	left: 97px;
+	top: 36px;
+	}	
+
+#logo:hover{
+	background-image:url("immagini/logo.gif");
+	width:156px;
+	height:32px;
+	position: absolute;
+	left: 97px;
+	top: 36px;
+	}
+	
+a.logo{
+	background-image:url("immagini/logo.png");
+	width:156px;
+	height:32;}
+a.logo:hover{
+	background-image:url("immagini/logo.gif");
+	width:156px;
+	height:32;}
+	
+#cantomale{
+	color: #000000;
+	font-family: Garamond;
+	font-style: italic;
+	font-size: 16px;
+	position: absolute;
+	left: 262px;
+	top: 45px;
+	}
+
+#immagine1{
+	background-image:url("immagini/aiello_contatti.png");
+	width:180px;
+	height:120px;
+	position:absolute;
+	left:550px;
+	top:150px;
+	}
+	
+#menu{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	left: 61px;
+	top: 85px;
+	line-height: 21.5px;
+	}
+
+	
+#email{
+	position: absolute;
+	left: 548px;
+	top: 111px;
+	}
+a.mail1{font-family:Verdana;
+	font-size:12px;
+	color:#fe4b4b;
+	}
+a.mail2{font-family:Verdana;
+	font-size:12px;
+	color:#000;
+	}
+	a.mail2:hover{font-family:Verdana;
+	font-size:12px;
+	color:#000;
+	text-decoration:none;
+	}
+	
+	.menu
+	{
+		font-family:'Conv_GarageGothicRegular',Sans-Serif;
+		font-size:30px;
+		color:#000;
+		text-decoration:none;
+	}
+	.menu_paginaattuale
+	{
+		font-family:'Conv_GarageGothicBold',Sans-Serif;
+		font-size:30px;
+		color:#000;
+		text-decoration:none;}
+	
+	.menu:hover{
+		font-family:'Conv_GarageGothicBold',Sans-Serif;
+		font-size:30px;
+		color:#000;
+		text-decoration:none;
+		}
+	.menu:visited{
+		font-family:'Conv_GarageGothicBold',Sans-Serif;
+		font-size:30px;
+		color:#000;
+		text-decoration:none;
+		}
+	
+		.menu_news
+	{
+		font-family:'Conv_GarageGothicRegular',Sans-Serif;
+		font-size:30px;
+		text-decoration:none;
+	color:#a8a8a8;
+	}
+		.menu_news:hover
+	{
+		font-family:'Conv_GarageGothicBold',Sans-Serif;
+		font-size:30px;
+		text-decoration:none;
+	color:#a8a8a8;
+	}
+	
+	.menu_news:visited
+	{
+		font-family:'Conv_GarageGothicBold',Sans-Serif;
+		font-size:30px;
+		text-decoration:none;
+	color:#a8a8a8;
+	}
+
+	
+	
+	.logo
+	{
+		font-family:'Conv_GarageGothicBlack',Sans-Serif;
+		font-size:35px;
+		text-decoration:none;
+		color:##fe4b4b;
+	}
+	
+#download{
+	background-color: #FFF;
+	position: absolute;
+	text-align: left;
+	left: 367px;
+	top: 103px;
+	width: 324px;
+	}
+	
+a.donwload1{font-family:Verdana;
+	font-size:12px;
+	text-decoration:none;
+	line-height:0px;
+	color:#fe4b4b;}
+	
+a.download2{
+	font-family:Verdana;
+	font-size:12px;
+	text-decoration:none;
+	line-height:0px;
+	color:#000;}
+a.download3{
+	font-family:Verdana;
+	font-size:10px;
+	font-style:italic;
+	text-decoration:none;
+	line-height:0px;
+	color:#000;}
+a.download4{
+	font-family:Verdana;
+	font-size:10px;
+	text-decoration:none;
+	line-height:0px;
+	color:#000;}
+a.spazio{
+	line-height:0px;}
+	
+div.download_img{
+	background-image: url("immagini/img_donwload.png");
+	width: 278px;
+	height: 311px;
+	background-repeat: no-repeat;
+	background-color: #FFF;
+	background-position: right;
+	position: absolute;
+	left: 706px;
+	top: 281px;
+}
+
+div.logoitunes{
+	background-image: url("immagini/logo_itunes.png");
+	width: 51px;
+	height: 20px;
+	position: absolute;
+	left: 102px;
+	top: 458px;
+}
+
+div.logovimeo{
+	background-image: url("immagini/logo_vimeo.png");
+	width: 51px;
+	height: 20px;
+	position: absolute;
+	left: 102px;
+	top: 549px;
+}
+
+#footer{
+	font-family: Verdana;
+	font-size: 9px;
+	color: #a8a8a8;
+	position: absolute;
+	left: 103px;
+	top: 645px;
+}
+
+#linea1{
+	background-image: url("immagini/linea_1.png");
+	width: 51px;
+	height: 3px;
+	position: absolute;
+	left: 102px;
+	top: 424px;
+}
+#linea2{
+	background-image: url("immagini/linea_2.png");
+	width: 51px;
+	height: 3px;
+	position: absolute;
+	left: 102px;
+	top: 513px;
+}
+#linea3{
+	background-image: url("immagini/linea_3.png");
+	width: 51px;
+	height: 3px;
+	position: absolute;
+	left: 102px;
+	top: 602px;
+}
+
+#frase{
+	color: #998e80;
+	background-color: #fff;
+	font-family: Garamond;
+	font-style: italic;
+	font-size: 18px;
+	line-height: 8px;
+	position: absolute;
+	left: 728px;
+	top: 101px;
+	width: 320px;
+	height: 179px;
+	}
+#box1{
+	background-color: #fff;
+	position: absolute;
+	width: 42px;
+	height: 179px;
+	left: 689px;
+	top: 100px;
+	}

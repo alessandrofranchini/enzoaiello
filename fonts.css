@@ -1,0 +1,28 @@
+@font-face {
+	font-family: 'Conv_GarageGothicRegular';
+	src: url('fonts/GarageGothicRegular.eot');
+	src: local('☺'), url('http://www.enzoaiello.it/fonts/GarageGothicRegular.woff') format('woff'), url('fonts/GarageGothicRegular.ttf') format('truetype'), url('fonts/GarageGothicRegular.svg.html') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_GarageGothicBlack';
+	src: url('fonts/GarageGothicBlack.eot');
+	src: local('☺'), url('http://www.enzoaiello.it/fonts/GarageGothicBlack.woff') format('woff'), url('fonts/GarageGothicBlack.ttf') format('truetype'), url('fonts/GarageGothicBlack.svg.html') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_GarageGothicBold';
+	src: url('fonts/GarageGothicBold.eot');
+	src: local('☺'), url('http://www.enzoaiello.it/fonts/GarageGothicBold.woff') format('woff'), url('fonts/GarageGothicBold.ttf') format('truetype'), url('fonts/GarageGothicBold.svg.html') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+
+
